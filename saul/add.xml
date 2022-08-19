@@ -1,0 +1,25 @@
+<table>
+    <movie path="movies/contact_bain1" force="true"/>
+    <movie path="movies/contact_bain2" force="true"/>
+    <movie path="movies/contact_bain3" force="true"/>
+    <movie path="movies/contact_continental1" force="true"/>
+    <movie path="movies/contact_hector1" force="true"/>
+    <movie path="movies/contact_hector2" force="true"/>
+    <movie path="movies/contact_hector3" force="true"/>
+    <movie path="movies/contact_hoxton" force="true"/>
+	<movie path="movies/contact_jiufeng1" force="true"/>
+    <movie path="movies/contact_locke1" force="true"/>
+	<movie path="movies/contact_shayu1" force="true"/>
+    <movie path="movies/contact_the_butcher1" force="true"/>
+    <movie path="movies/contact_the_butcher2" force="true"/>
+    <movie path="movies/contact_the_butcher3" force="true"/>
+    <movie path="movies/contact_the_dentist1" force="true"/>
+    <movie path="movies/contact_the_dentist2" force="true"/>
+    <movie path="movies/contact_the_dentist3" force="true"/>
+    <movie path="movies/contact_the_elephant1" force="true"/>
+    <movie path="movies/contact_the_elephant2" force="true"/>
+    <movie path="movies/contact_the_elephant3" force="true"/>
+    <movie path="movies/contact_vlad1" force="true"/>
+    <movie path="movies/contact_vlad2" force="true"/>
+    <movie path="movies/contact_vlad3" force="true"/>
+</table>
